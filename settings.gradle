@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='Clinic_SEG2105'
